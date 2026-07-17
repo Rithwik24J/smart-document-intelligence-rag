@@ -124,9 +124,27 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Coming Soon
+### 🏠 Home Page
+
+![Home](assets/home.png)
 
 ---
+
+### ❓ Question Answering
+
+![Question Answer](assets/qa.png)
+
+---
+
+### 📄 Resume Summary
+
+![Resume Summary](assets/summary.png)
+
+---
+
+### 📚 Source Chunks
+
+![Source Chunks](assets/source_chunks.png)
 
 ## 🔮 Future Improvements
 
